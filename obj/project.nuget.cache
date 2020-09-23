@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fbI2DMouGyDKoeWt1H6PKYYaGFqI3zeXju60Erhcadvw04ENkH+iQ+fJ2M6ZGYAecMQrG/Y4ex0/gpuijPkkDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\TransactionMicroservice\\TransactionMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
